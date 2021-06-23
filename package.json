@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "portfolio.js",
   "scripts": {
-    "start": "node portfolioApiTeste.js",
+    "start": "node portfolioApi.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
