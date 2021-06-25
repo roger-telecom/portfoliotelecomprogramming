@@ -21,7 +21,7 @@
     "nodemon": "^2.0.7",
     "path": "^0.12.7",
     "sequelize": "^6.6.2",
-    "shrinkwrap": "^0.4.0"
+    "shrinkwrap":"^0.4.0",
   },
   "description": ""
 }
